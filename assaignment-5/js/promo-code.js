@@ -18,6 +18,9 @@ function applyPromoCode() {
      
         inputCode.value = "";
       } 
+      else{
+           inputCode.value = "";
+      }
       // else if(!promoCodeValue) {
       //   alert ("please input a value");
       // }
